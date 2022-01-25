@@ -1,0 +1,1 @@
+pyuic5 -x tela_metNewtRaph2.ui -o tp_metNewRaph.py

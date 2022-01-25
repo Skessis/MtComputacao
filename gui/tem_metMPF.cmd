@@ -1,0 +1,1 @@
+pyuic5 -x tela_metMPontoFixo.ui -o tp_metMPF.py

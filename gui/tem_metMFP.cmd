@@ -1,0 +1,1 @@
+pyuic5 -x tela_metMPF.ui -o tp_metMFP.py

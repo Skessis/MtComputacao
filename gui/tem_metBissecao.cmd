@@ -1,0 +1,1 @@
+pyuic5 -x tela_metBissecao.ui -o tp_metBissecao.py

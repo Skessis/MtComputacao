@@ -1,0 +1,1 @@
+pyuic5 -x tem_main.ui -o tem_main.py
